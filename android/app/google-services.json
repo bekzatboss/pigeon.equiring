@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680706742484",
+    "project_id": "sender-ca184",
+    "storage_bucket": "sender-ca184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680706742484:android:f0215f7073bafccd2dc341",
+        "android_client_info": {
+          "package_name": "com.mycompany.sendux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrr6My7w8f-GKYfqFlDc6g34Ebsv53esc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
